@@ -5,5 +5,6 @@ xhofe/alist:latest
 evil0ctal/douyin_tiktok_download_api
 privoce/vocechat-server:latest
 rustdesk/rustdesk-server-s6:latest
+
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
